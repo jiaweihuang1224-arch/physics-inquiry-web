@@ -6,3 +6,7 @@ experiments/
 .openai/
 .env
 .env.*
+
+# Local maintenance notes and release archives stay out of distributed skills.
+local-maintenance/
+releases/
