@@ -1,0 +1,4 @@
+interface:
+  display_name: "物理题 → 双语交互实验"
+  short_description: "物理题自动分类，先交报告与逐屏效果图，确认后制作中英双语实验网页"
+  default_prompt: "请使用 $physics-inquiry-web，先读取当前项目偏好；首次使用先初始化，再为上传的题目分类并提交含效果图的实验设计报告，等我确认后再制作双语网页。"
