@@ -35,7 +35,7 @@ description: "Plan and, after user approval, build a polished Chinese/English in
 
 按 [design-report.md](references/design-report.md) 交付可审阅报告：题目理解、分类/目录位置、网站放入方式、模型与结果、页面清单、每屏效果图下的功能/实现说明、简洁交互与解题构图顺序、双语、交付平台、验收及未决项。屏幕数按实际需要，不为了模板增加页面；静态效果图不能被算作已实现网页。
 
-读取 [visual-system.md](references/visual-system.md)，查看 `assets/home-reference.png` 和 `assets/lab-reference.png`，延续用户认可风格。已有主页只展示受影响的目录/卡片及新增题目/实验/解释状态，不默认为每题重做整站。全新站再给主页和主题目录设计。每屏至少有当前状态和必要的关键变化画面，配具体操作后会发生什么、用什么图层实现。
+读取 [visual-system.md](references/visual-system.md)，查看 `assets/home-reference.png` 和 `assets/lab-reference.jpg`，延续用户认可风格。已有主页只展示受影响的目录/卡片及新增题目/实验/解释状态，不默认为每题重做整站。全新站再给主页和主题目录设计。每屏至少有当前状态和必要的关键变化画面，配具体操作后会发生什么、用什么图层实现。
 
 优先复用用户认可插画，报告新画面需要素材时使用当前可用图像能力；科学图线仍由精确几何构图。无生图工具可提供标明素材待补的排版预览；无任何成图能力则交付明确标为不完整的报告，不把文字说明冒充效果图，也不以缺图为由跳过确认。报告末说明等待确认的当前版本并停止阶段 A；下一轮确认后再继续。
 
